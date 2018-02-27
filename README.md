@@ -2,7 +2,12 @@
 
 ![Getting Started with Vagrant](https://cdn.scotch.io/2/J2QKO8zoSGS1YH7wSzdE_getting-started-with-vagrant.png.jpg)
 
-A Dead-Simple Introduction to Vagrant
+A Dead-Simple Introduction to Vagrant - https://scotch.io/courses/getting-started-with-vagrant-for-local-development
+
+🔥 22 videos with written lessons
+🤯 1.5 hours of material
+🙉 Designed to be dead-simple for beginners
+🥃Please enjoy and share with your friends!
 
 ## Description
 
