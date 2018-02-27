@@ -1,4 +1,6 @@
-# Scotch.io: Getting Started with Vagrant for Local Development
+# Getting Started with Vagrant for Local Development
+
+by Nicholas Cerminara via [scotch.io](scotch.io)
 
 ![Getting Started with Vagrant](https://cdn.scotch.io/2/J2QKO8zoSGS1YH7wSzdE_getting-started-with-vagrant.png.jpg)
 
