@@ -4,10 +4,10 @@
 
 A Dead-Simple Introduction to Vagrant - https://scotch.io/courses/getting-started-with-vagrant-for-local-development
 
-🔥 22 videos with written lessons
-🤯 1.5 hours of material
-🙉 Designed to be dead-simple for beginners
-🥃Please enjoy and share with your friends!
+* 🔥 22 videos with written lessons
+* 🤯 1.5 hours of material
+* 🙉 Designed to be dead-simple for beginners
+* 🥃Please enjoy and share with your friends!
 
 ## Description
 
